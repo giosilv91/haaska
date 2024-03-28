@@ -1,6 +1,6 @@
 {
-  "url": "http://localhost:8123/api",
-  "password": "",
+  "url": "https://casasilvestri.duckdns.org:8123/api",
+  "password": "Silvestrig3td",
   "ssl_verify": false,
   "expose_by_default": true,
   "exposed_domains": [
